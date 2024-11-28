@@ -2,7 +2,9 @@
 
 Instances:
   OR-Library from https://people.brunel.ac.uk/~mastjjb/jeb/orlib/scpinfo.html
+  
   CapraraFischettiToth from https://www-or.amp.i.kyoto-u.ac.jp/~yagiura/scp/
+  
   MiningDatasetRepository from http://fimi.uantwerpen.be/data/
 
 Format of the instances except from those in OR-Library/rail:
